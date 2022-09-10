@@ -1,6 +1,6 @@
 # Einstein_IQ_Bot - Telegram Bot
 
-- :brain: 
+- :brain: Take the test and I'll tell you your IQ.
 - :interrobang:
 - :books: 
 - :pencil: 
