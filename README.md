@@ -1,5 +1,9 @@
 # Einstein_IQ_Bot - Telegram Bot
 
+- :brain: 
+- :interrobang:
+- :books: 
+- :pencil: 
 
 ---
 
