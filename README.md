@@ -1,9 +1,9 @@
 # Einstein_IQ_Bot - Telegram Bot
 
 - :brain: Take the test and I'll tell you your IQ.
-- :interrobang:
-- :books: 
-- :pencil: 
+- :interrobang: Just a logic quiz in Telegram Bot.
+- :open_file_folder: The bot has two commands: `/start` , `/play` , `/finish` , `/help`.
+- :pencil: There is a database connected here to record your answers.
 
 ---
 
