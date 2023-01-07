@@ -1,4 +1,4 @@
-# Einstein_IQ_Bot - Telegram Bot
+# @Einstein_IQ_Bot - Telegram Bot
 
 - :brain: Take the test and I'll tell you your IQ.
 - :interrobang: Just a logic quiz in the Telegram Bot.
