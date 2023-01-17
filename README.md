@@ -9,7 +9,7 @@
 
 # Screenshots
 
-![Einstein_IQ_Bot_](https://github.com/nikit0ns/Screenshots/blob/master/Einstein_IQ_Bot_Start.png)
-![Einstein_IQ_Bot_](https://github.com/nikit0ns/Screenshots/blob/master/Einstein_IQ_Bot_Play.png)
-![Einstein_IQ_Bot_](https://github.com/nikit0ns/Screenshots/blob/master/Einstein_IQ_Bot_Help.png)
-![Einstein_IQ_Bot_](https://github.com/nikit0ns/Screenshots/blob/master/Einstein_IQ_Bot_Commands.png)
+![Einstein_IQ_Bot_Start](https://github.com/nikit0ns/Screenshots/blob/master/Einstein_IQ_Bot_Start.png)
+![Einstein_IQ_Bot_Play](https://github.com/nikit0ns/Screenshots/blob/master/Einstein_IQ_Bot_Play.png)
+![Einstein_IQ_Bot_Help](https://github.com/nikit0ns/Screenshots/blob/master/Einstein_IQ_Bot_Help.png)
+![Einstein_IQ_Bot_Commands](https://github.com/nikit0ns/Screenshots/blob/master/Einstein_IQ_Bot_Commands.png)
