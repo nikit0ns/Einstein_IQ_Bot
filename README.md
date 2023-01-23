@@ -2,7 +2,7 @@
 
 - :brain: Take the test and I'll tell you your IQ.
 - :interrobang: Just a logic quiz in the Telegram Bot.
-- :pencil: There is a database connected here to record your answers.
+- :books: There is a database connected here to record your answers.
 - :open_file_folder: The Bot has four commands: `/start` , `/play` , `/finish` , `/help`.
 
 ---
